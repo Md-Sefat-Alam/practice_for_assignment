@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    background-image: url(img/bgpic/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+#section1{
+    text-align: laft;
+    padding-right: 100px;
+    
+}
+#section1 img{
+    width: 30%;
+    opacity: 0.5;
+}
+#section1 a{
+    text-decoration: none;
+    background-color: orange;
+    padding:10px 40px;
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+}
